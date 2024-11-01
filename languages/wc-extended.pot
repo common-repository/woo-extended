@@ -1,0 +1,205 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WooCommerce Heli Events Voyages\n"
+"POT-Creation-Date: 2019-09-11 20:21+0200\n"
+"PO-Revision-Date: 2018-06-19 09:33+0200\n"
+"Last-Translator: WebMat <contact@webmat.pro>\n"
+"Language-Team: WebMat <contact@webmat.pro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-extended.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/partials/wc-extended-admin-display.php:23
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:35
+msgid "WC Extended Settings"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:35
+msgid "The following options are used to configure WC Extended"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:39
+msgid "Disable cart page"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:40
+msgid ""
+"Enabling this option will delete the cart page and for each purchase "
+"customers will be redirected directly to the checkout. They will also be "
+"able to buy one type of product at a time."
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:44
+msgid "Disable cart page and redirect directly to checkout"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:49
+#: admin/partials/wc-extended-admin-display.php:54
+msgid "Remove UGS"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:59
+#: admin/partials/wc-extended-admin-display.php:64
+msgid "Remove Categories"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:69
+#: admin/partials/wc-extended-admin-display.php:74
+msgid "Remove Tags"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:79
+msgid "Auto Check Terms"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:84
+msgid "Auto Check the checkbox terms and conditions in checkout page"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:89
+msgid "Uncheck Different Address Ship"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:94
+msgid "Uncheck the checkbox for use the different address shipping"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:99
+msgid "Remove Field Order Notes"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:104
+msgid "Remove the field Notes in order"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:109
+#: admin/partials/wc-extended-admin-display.php:114
+msgid "Only Sold Individually"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:119
+msgid "Redirect Login Wordpress"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:124
+msgid ""
+"Redirect the login page (or register) Wordpress to the page of my account "
+"woocommerce"
+msgstr ""
+
+#: admin/partials/wc-extended-admin-display.php:135
+#: woocommerce-extended.php:44
+msgid "WC Extended"
+msgstr ""
+
+#: public/partials/modules/disable-cart.php:60
+#: public/partials/modules/disable-cart.php:65
+msgid "Ordered"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:15
+msgid "Categories"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:17
+msgid "Product categories"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:18
+msgid "Category"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:19
+msgctxt "Admin menu name"
+msgid "Categories"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:20
+msgid "Search categories"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:21
+msgid "All categories"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:22
+msgid "Parent category"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:23
+msgid "Parent category:"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:24
+msgid "Edit category"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:25
+msgid "Update category"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:26
+msgid "Add new category"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:27
+msgid "New category name"
+msgstr ""
+
+#: public/partials/modules/remove-slug-categories.php:28
+msgid "No categories found"
+msgstr ""
+
+#: public/partials/wc-extended-public-display.php:68
+msgid "From"
+msgstr ""
+
+#: public/partials/wc-extended-public-display.php:68
+msgid "/ pers."
+msgstr ""
+
+#: public/partials/wc-extended-public-display.php:79
+msgid "View offer"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor
+#: woocommerce-extended.php:43
+#, php-format
+msgid "%1$s requires %2$s for working."
+msgstr ""
+
+#: woocommerce-extended.php:45
+msgid "WooCommerce"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Extended"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://webmat.pro"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This is a plugin to extended Woocommerce"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WebMat"
+msgstr ""
